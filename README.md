@@ -1,1 +1,1 @@
-Airplane game
+Aircraft game with gyroscope controls
